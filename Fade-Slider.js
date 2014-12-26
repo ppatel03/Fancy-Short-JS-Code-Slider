@@ -1,6 +1,5 @@
 /**
 *
-* Implemented in www.nursingdegrees.compile
 * Developed By Prashant Patel
 *
 * The implementation considers a Div structure in the following manner : 
